@@ -1,4 +1,5 @@
 import asyncio
+from types import NoneType
 from discord import Member
 
 async def getAlias(user: Member):
